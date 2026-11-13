@@ -15,7 +15,7 @@
     "vitalis."
   ],
   "sizeBytes": 462733,
-  "sha256": "cd587de3724b9c6b54299de49d507a99aa0787e853ab11ab660d0a4cd4663886",
+  "sha256": "4730ec70342c68a62d03857215f80aef85ff5d8db012e71213a2b927704d2281",
   "csp": {
     "present": true,
     "directives": {
@@ -58,7 +58,7 @@
     ]
   },
   "kit": {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "modules": [
       "core",
       "store",
