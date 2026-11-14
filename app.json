@@ -9,18 +9,19 @@
   "permissions": [
     "clipboard",
     "serviceWorker",
-    "localStorage"
+    "localStorage",
+    "WebGL"
   ],
   "storageKeys": [
     "vitalis."
   ],
-  "sizeBytes": 462733,
-  "sha256": "4730ec70342c68a62d03857215f80aef85ff5d8db012e71213a2b927704d2281",
+  "sizeBytes": 514381,
+  "sha256": "3dceb8dfaff0ba6d9dd4e61085358430cb881cee988f73b27083159ff33a27f0",
   "csp": {
     "present": true,
     "directives": {
       "default-src": "'none'",
-      "script-src": "sha256×2",
+      "script-src": "sha256×3",
       "style-src": "'unsafe-inline'",
       "img-src": "data: 'self'",
       "manifest-src": "'self'",
