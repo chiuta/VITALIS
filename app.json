@@ -15,8 +15,8 @@
   "storageKeys": [
     "vitalis."
   ],
-  "sizeBytes": 557448,
-  "sha256": "a25442e34873e1e7243ab520360d46958c1f6f802732316c55d11f4498f0cc23",
+  "sizeBytes": 582910,
+  "sha256": "fdecf67209e2a4fc5aadd2cac8ea8933aad7d9e76094bc62b8075cb741ed8f37",
   "csp": {
     "present": true,
     "directives": {
@@ -54,6 +54,7 @@
       "core",
       "store",
       "dialog",
+      "view",
       "a11y",
       "label",
       "bundle"
@@ -65,6 +66,7 @@
       "core",
       "store",
       "dialog",
+      "view",
       "a11y",
       "label",
       "bundle"
