@@ -4,7 +4,7 @@
 
 Health, longevity and biohacking companion — single-file, offline, trade-free.
 
-Version: 1.0.0 · Last updated: 2026-11-06
+Version: 1.0.1 · Last updated: 2026-11-15
 
 **Live app:** https://chiuta.github.io/vitalis/
 

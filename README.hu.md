@@ -4,7 +4,7 @@
 
 Egészség, hosszú élet és biohacking társ — egyetlen fájl, offline, adatkereskedelem nélkül.
 
-Verzió: 1.0.0 · Utolsó frissítés: 2026-11-06
+Verzió: 1.0.1 · Utolsó frissítés: 2026-11-15
 
 **Élő alkalmazás:** https://chiuta.github.io/vitalis/
 

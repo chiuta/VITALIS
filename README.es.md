@@ -4,7 +4,7 @@
 
 Compañero de salud, longevidad y biohacking — archivo único, sin conexión, sin comercio de datos.
 
-Versión: 1.0.0 · Última actualización: 2026-11-06
+Versión: 1.0.1 · Última actualización: 2026-11-15
 
 **Aplicación en línea:** https://chiuta.github.io/vitalis/
 

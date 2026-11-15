@@ -4,7 +4,7 @@
 
 Compagno per salute, longevità e biohacking — file unico, offline, senza commercio di dati.
 
-Versione: 1.0.0 · Ultimo aggiornamento: 2026-11-06
+Versione: 1.0.1 · Ultimo aggiornamento: 2026-11-15
 
 **App online:** https://chiuta.github.io/vitalis/
 
