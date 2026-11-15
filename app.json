@@ -2,7 +2,7 @@
   "schema": 1,
   "slug": "vitalis",
   "name": "VITALIS",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "updated": "2026-11-15",
   "description": "VITALIS — private, offline health, longevity and biohacking companion: nine evidence-ranked pillars, calculators, lifestyle score, biomarker panel and daily ritual. Inspired by Biohacking360.",
   "egress": [],
@@ -16,7 +16,7 @@
     "vitalis."
   ],
   "sizeBytes": 519669,
-  "sha256": "886dfb921dacc61ab478a853c7365fcd57141532d211df9ca362a3d750126f69",
+  "sha256": "d0fd5671dd14a58a4f535aad31e171df5f0dd20810c494e94617ff9c3c20473d",
   "csp": {
     "present": true,
     "directives": {
