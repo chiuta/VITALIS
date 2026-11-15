@@ -1,5 +1,5 @@
 /* VITALIS service worker — offline cache. Network-first for the page (always fresh when online), cache-first for static files. */
-const V = 'vitalis-1.0.2-kit';
+const V = 'vitalis-1.1.0-kit';
 const ASSETS = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(V).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));
