@@ -4,7 +4,7 @@
 
 Companion pentru sănătate, longevitate și biohacking — un singur fișier, offline, fără comerț cu datele.
 
-Versiune: 1.0.1 · Ultima actualizare: 2026-11-15
+Versiune: 1.0.1 · Ultima actualizare: 2026-11-22
 
 **Aplicația live:** https://chiuta.github.io/vitalis/
 
